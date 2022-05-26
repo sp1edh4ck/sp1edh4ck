@@ -23,8 +23,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </p>
 
 ### Languages:
-https://github.com/sp11dh4ck/forme/blob/main/icons/C%2B%2B.svg
-
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/sp11dh4ck/forme/blob/main/icons/python.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/sp11dh4ck/forme/blob/main/icons/C%2B%2B.svg" alt="cplusplus" width="40" height="40"/> </a> 
 

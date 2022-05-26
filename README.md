@@ -23,7 +23,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </p>
 
 ### Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sp11dh4ck)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Tools:
 <p align="left"> 

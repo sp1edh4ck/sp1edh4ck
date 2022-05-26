@@ -17,17 +17,18 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ### Connect with me:
 <p align="left">
-<a href="https://t.me/sp1edh4ck" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="daniilshat" height="40" width="40" /></a>
-<a href="https://vk.com/sp1edh4ck" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/vk.svg" alt="daniilshat" height="40" width="40" /></a>
-<a href="https://habr.com/ru/users/sp1edh4ck" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/d71898e2a08f31fd3f9512a9d30d3cb1d025a649/icons/habr.svg" alt="daniilshat" height="60" width="60" /></a>
+<a href="https://t.me/sp1edh4ck" target="blank"><img align="center" src="https://github.com/sp11dh4ck/forme/blob/main/icons/Telegram.svg" alt="sp1edh4ck" height="40" width="40" /></a>
+<a href="https://vk.com/sp1edh4ck" target="blank"><img align="center" src="https://github.com/sp11dh4ck/forme/blob/main/icons/vk.svg" alt="sp1edh4ck" height="40" width="40" /></a>
+<a href="https://habr.com/ru/users/sp1edh4ck" target="blank"><img align="center" src="https://github.com/sp11dh4ck/forme/blob/main/icons/habr.svg" alt="sp1edh4ck" height="60" width="60" /></a>
 </p>
 
 ### Languages:
 https://github.com/sp11dh4ck/forme/blob/main/icons/C%2B%2B.svg
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/sp11dh4ck/forme/blob/main/icons/C%2B%2B.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/sp11dh4ck/forme/blob/main/icons/python.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/sp11dh4ck/forme/blob/main/icons/C%2B%2B.svg" alt="cplusplus" width="40" height="40"/> </a> 
 
 ### Tools:
 <p align="left"> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/VS-code.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/sp11dh4ck/forme/blob/main/icons/VS-code.svg" alt="git" width="40" height="40"/> </a> 
 </p>

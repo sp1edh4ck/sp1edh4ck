@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/sp1edh4ck" target="_blank">Zakhar</a> <img
+<h1 align="center">Hi there, I'm <a href="" target="_blank">Zakhar</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 <h3 align="center">Little information about me</h3>
 
@@ -9,7 +9,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 - 📝 I regularly write articles on [**Habr (Ru)**](https://habr.com/ru/users/sp1edh4ck/)
 
-- 📫 How to reach me **sp11dh4ck@gmail.com**
+- 📫 How to reach me [**Telegram**](https://t.me/sp1edh4ck)
 
 - 📄 Know about my experiences [**Habr Career (Ru)**](https://career.habr.com/sp1edh4ck)
 

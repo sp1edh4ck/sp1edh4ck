@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Zakhar</a> <img
+<h1 align="center">Hi there, I'm <a href="https://t.me/sp1edh4ck" target="_blank">Zakhar</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 <h3 align="center">Little information about me</h3>
 

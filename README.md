@@ -1,23 +1,47 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/sp1edh4ck" target="_blank">Zakhar</a> <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"></h1>
-<h3 align="center">Little information about me</h3>
+<h1 align="center">sp1edh4ck / experienced coder</h1>
 
+###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=IT+it's+the+future)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+</div>
 
-- 🌱 I’m currently learning **Python, C++**
+###
 
-- 📫 How to reach me [**Telegram**](https://t.me/sp1edh4ck)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+</div>
 
-- 🌍 I speak Russian (native), English (A2)
+###
 
-### Connect with me:
-<a href="https://t.me/sp1edh4ck" target="_blank" rel="noopener noreferrer"><img align="center" src="https://github.com/sp11dh4ck/forme/blob/main/icons/Telegram.svg" alt="sp1edh4ck" height="40" width="40"></a>
-<a href="https://vk.com/sp1edh4ck" target="_blank" rel="noopener noreferrer"><img align="center" src="https://github.com/sp11dh4ck/forme/blob/main/icons/vk.svg" alt="sp1edh4ck" height="40" width="40"></a>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sp1edh4ck&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+</p>
 
-### Languages:
-<a href="https://www.python.org" target="_blank" rel="noopener noreferrer"><img src="https://github.com/sp11dh4ck/forme/blob/main/icons/python.svg" alt="python" width="40" height="40"></a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/sp11dh4ck/forme/blob/main/icons/C%2B%2B.svg" alt="cplusplus" width="40" height="40"></a> 
+###
 
-### Tools:
-<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/sp11dh4ck/forme/blob/main/icons/VS-code.svg" alt="git" width="40" height="40"></a> 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
